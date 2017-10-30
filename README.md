@@ -8,3 +8,5 @@ And return a list of coordinates in the same order as entered: gc.geocodeAddress
 * add more geocoders such as Mapbox, Mapzen, Geocodio, etc
 * add logging, better error handling
 * add a spreadsheet with an address column and script to geocode the addresses
+
+Note: Inspired from original script by Steve Hockema, but made more general purpose
